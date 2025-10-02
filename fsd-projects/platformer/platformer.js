@@ -32,7 +32,7 @@ $(function () {
 
     // TODO 2 - Create Platforms
 createPlatform(200, 650, 100, 20, "red");
-createPlatform(550, 600, 100, 20, "lime");
+createPlatform(550, 500, 100, 20, "lime");
 
 
     // TODO 3 - Create Collectables
