@@ -42,7 +42,7 @@ createCollectable("kennedi", 1000, 120);
 createCollectable("max", 200, 170, 0.5, 0.7);
 createCollectable("steve", 1200, 50);
 
-    
+
     // TODO 4 - Create Cannons
 createCannon("top", 200, 500);
 createCannon("right", 300, 3000);
